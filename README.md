@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlinJiong
-- 👀 I’m interested in soft engineering
-- 🌱 I’m currently learning HTML,CSS&JS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Soft Engineering
+- 🌱 I’m currently learning HTML,CSS&JavaScript
+- 💞️ I’m looking to collaborate on you
 - 📫 How to reach me at alinjiong@qq.com or alinjiong114@gmail.com
 
 <!---
