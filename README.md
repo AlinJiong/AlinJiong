@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlinJiong
 - 👀 I’m interested in Soft Engineering
-- 🌱 I’m currently learning HTML,CSS&JavaScript
+- 🌱 I’m currently learning Django&Flask
 - 💞️ I’m looking to collaborate on you
 - 📫 How to reach me at alinjiong@qq.com or alinjiong114@gmail.com
 
